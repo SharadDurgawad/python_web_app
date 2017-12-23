@@ -1,3 +1,4 @@
+# Simple python web application
 from flask import Flask
 from redis import Redis
 
